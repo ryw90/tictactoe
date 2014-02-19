@@ -8,4 +8,4 @@ Command line tic-tac-toe with arbitrary rules, including:
 
 Thinking about whether this would still be a fun game in... arbitrary dimensions!? Probably depends on all the other rules...
 
-Can be run with simply `python ttc.py'
+Can be run with simply `python ttc.py`
